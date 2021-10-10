@@ -8,6 +8,7 @@ Following models were used to report and compare the results:
   1. Simple NN
   2. RNN
   3. LSTM
+
 RMSE was used as evaluation matric to test our predictions
 
 **Observation:**
